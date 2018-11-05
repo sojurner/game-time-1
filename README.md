@@ -3,8 +3,8 @@
 Tron is an implementation of the two player Arcade game, Tron. 
 
   - Built using Canvas
-  - Javascript OOP
-  - Keeps track of each players scores and 
+  - JavaScript Object Oriented Programming + Testing with Mocha
+  - Prototypal inheritance
 
 [GH Pages Link](https://michaelyons.github.io/game-time/)
 
